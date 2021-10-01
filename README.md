@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-🌱 I’m currently learning C++, Java, Go.
+🌱 I’m currently learning C, C#, C++, Kotlin, Java, HTML, JavaScript, Go.
