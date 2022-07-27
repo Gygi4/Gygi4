@@ -5,6 +5,7 @@
 <h3 align="left">Contact me</h3>
 
 - **Discord**: Gygi4#0001
+- **Telegram**: @Gygi4
 #
 
 ![Gygi4's Github Stats](https://github-readme-stats.vercel.app/api?username=Gygi4&show_icons=true&theme=tokyonight)
