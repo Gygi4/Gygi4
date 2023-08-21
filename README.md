@@ -4,7 +4,7 @@
 
 <h3 align="left">Contact me</h3>
 
-- **Discord**: Gygi4#0001
+- **Discord**: Gygi4
 - **Telegram**: @Gygi4
 #
 
