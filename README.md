@@ -24,6 +24,6 @@ I build scalable, secure, and cross-platform applications. Passionate about clea
 - **Focus Areas:** Containerized microservices, high-performance systems, and complex data integrations.
 
 ### 📫 Connect with me
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gygi4])
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gygi4)
 
 ![Gygi4's Github Stats](https://github-readme-stats-gygi4.vercel.app/api?username=Gygi4&count_private=true&show_icons=true&theme=tokyonight)
